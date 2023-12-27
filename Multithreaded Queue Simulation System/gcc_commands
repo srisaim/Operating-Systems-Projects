@@ -1,0 +1,18 @@
+To compile examp.c with threads and math:
+
+gcc -lm -pthread examp.c
+
+The above code is from textbook page 108, adapted.
+
+
+
+To compile hello32.c with threads and math:
+
+gcc -pthread hello32.c -lm
+
+The above code is from the tutorial mentioned in the pthreads.pdf slides:
+
+https://hpc-tutorials.llnl.gov/posix
+
+See exercise1
+

@@ -1,13 +1,15 @@
+$ cat .gitattributes
+
 Custom BShell Program/* linguist-language=C
 Hamming Encoder & Decoder Program/* linguist-language=C
 Huffman Encoder Program/* linguist-language=C
 Multithreaded Queue Simulation System/* linguist-language=C
 
-*.2 linguist-language=text
-*.part0 linguist-language=text
-*.part1 linguist-language=text
-*.part2 linguist-language=text
-*.part3 linguist-language=text
-*.part4 linguist-language=text
-*.part5 linguist-language=text
-*.part6 linguist-language=text
+*.2 linguist-documentation
+*.part0 linguist-documentation
+*.part1 linguist-documentation
+*.part2 linguist-documentation
+*.part3 linguist-documentation
+*.part4 linguist-documentation
+*.part5 linguist-documentation
+*.part6 linguist-documentation

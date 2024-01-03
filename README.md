@@ -3,7 +3,8 @@ Introduction to Operating Systems:
 
 CS444 offers a comprehensive introduction to operating systems, which are crucial components in the computing world. This course provides insights into the architecture and functionality of modern operating systems, emphasizing the role they play as intermediaries between hardware and software systems.
 
-Course Structure and Content:
+
+# Course Structure and Content
 
 Operating Systems Overview:
   - Begins with a broad overview of current operating systems, focusing on one or two key examples for in-depth understanding. This sets the stage for understanding the diversity and commonality among various operating systems.
